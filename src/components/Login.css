@@ -1,0 +1,49 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+.form{
+    width: 35%;
+    height: 400px;
+    margin-top: 126px;
+    margin-left: 450px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: solid 1px lightgray;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    background-color: #1DA1F2;
+    
+}
+
+.main{
+    margin-top:50px;
+}
+label{
+    padding-right:120px;
+    color:white;
+    
+}
+input[type=submit]{
+    margin-top:40px;
+    color:gray;
+    font-size:18px;
+    font-style: italic;
+}
+.user{
+    margin-top:10px;
+    margin-bottom:20px;
+}
+.pass{
+    margin-top:10px;
+}
+input{
+    width:200px;
+    height:25px;
+    color:black;
+}
+h2{
+    margin-bottom:50px;
+    color:white;
+}
